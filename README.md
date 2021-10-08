@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @chengbangsheng
-- 👀 I’m interested in Deep Learning, AI and Brain Science
-- 🌱 I’m currently investigating deep learning, artificial intelligence, and brain science.
-- 💞️ I’m looking to collaborate on researching on deep learning, artificial intelligence, and brain science
-- 📫 How to reach me bansheng.cheng [at] gmail.com
+# AI and Brain Research 
+
+Research Area:
+- Deep Learning
+- Artificial Intelligence
+- Brain Science
+
+Contact: bangsheng.cheng 【at】 gmail.com
+
+Location：Shanghai
 
 <!---
 chengbangsheng/chengbangsheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

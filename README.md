@@ -2,8 +2,9 @@
 
 Research Area:
 - Artificial Neural Networks and Deep Learning
-- Artificial Intelligence
 - Biological Neural Networks and Brain Science
+- Computational Theory of Neural Networks
+- Artificial Intelligence
 
 Contact: bangsheng.cheng 【at】 gmail.com
 

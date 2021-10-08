@@ -1,9 +1,9 @@
 # AI and Brain Research Lab
 
 Research Area:
-- Deep Learning
+- Artificial Neural Networks and Deep Learning
 - Artificial Intelligence
-- Brain Science
+- Biological Neural Networks and Brain Science
 
 Contact: bangsheng.cheng 【at】 gmail.com
 

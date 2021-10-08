@@ -1,4 +1,4 @@
-# AI and Brain Research 
+# AI and Brain Research Lab
 
 Research Area:
 - Deep Learning

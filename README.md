@@ -1,4 +1,4 @@
-# NeuroCog Inno Center
+# CogNeuro Inno Center
 
 Research Area:
 - Artificial Neural Networks and Deep Learning

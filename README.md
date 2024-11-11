@@ -1,9 +1,9 @@
-# AI and Brain Research Lab
+# NeuroCog Inno Center
 
 Research Area:
 - Artificial Neural Networks and Deep Learning
 - Biological Neural Networks and Brain Science
-- Computational Theory of Neural Networks
+- Cosciousness
 - Artificial Intelligence
 
 Contact: bangsheng.cheng 【at】 gmail.com

@@ -1,4 +1,4 @@
-# CogNeuro Inno Center
+# CogNeuroAI Open Research Center
 
 Research Area:
 - Artificial Neural Networks and Deep Learning

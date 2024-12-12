@@ -6,7 +6,7 @@ Research Area:
 - Cosciousness
 - Artificial Intelligence
 
-Contact: bangsheng.cheng 【at】 gmail.com
+Contact: bangsheng 【DOT】 cheng 【AT】 gmail 【DOT】 com
 
 Location：Shanghai
 

@@ -1,4 +1,4 @@
-# CogNeuroAI Open Research Center
+# NeuroCogAI Open Research Center
 
 Research Area:
 - Artificial Neural Networks and Deep Learning

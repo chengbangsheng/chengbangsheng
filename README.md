@@ -5,7 +5,7 @@ Research Area（研究领域、研究領域）:
 - Cosciousness（意识科学、意識科學）
 - Artificial Intelligence（人工智能、人工智慧）
 - Brain Science（脑科学、腦科學）
-- Philosophy of the Mind（精神哲学、精神哲學）
+- Philosophy of Mind（精神哲学、精神哲學）
 
 Contact（联系方式、聯絡方式）: bangsheng 【DOT】 cheng 【AT】 gmail 【DOT】 com
 

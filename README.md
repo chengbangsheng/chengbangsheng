@@ -1,14 +1,15 @@
-# NeuroCogAI Open Research Center
+# Bangsheng Cheng(程邦胜、程邦勝)
 
-Research Area:
-- Artificial Neural Networks and Deep Learning
-- Biological Neural Networks and Brain Science
-- Cosciousness
-- Artificial Intelligence
+Research Area（研究领域、研究領域）:
 
-Contact: bangsheng 【DOT】 cheng 【AT】 gmail 【DOT】 com
+- Cosciousness（意识科学、意識科學）
+- Artificial Intelligence（人工智能、人工智慧）
+- Brain Science（脑科学、腦科學）
+- Philosophy of the Mind（精神哲学、精神哲學）
 
-Location：Shanghai
+Contact（联系方式、聯絡方式）: bangsheng 【DOT】 cheng 【AT】 gmail 【DOT】 com
+
+Location：Shanghai（上海）
 
 <!---
 chengbangsheng/chengbangsheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
